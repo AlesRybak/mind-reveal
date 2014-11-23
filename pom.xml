@@ -27,10 +27,9 @@
                     <webResources>
                         <resource>
                             <directory>src/main/mindmaps</directory>
+                            <directory>src/external/reveal</directory>
                         </resource>
                     </webResources>
-                    <warSourceExcludes>*.mm</warSourceExcludes>
-                    <packagingExcludes>*.mm</packagingExcludes>
                 </configuration>
             </plugin>
             <plugin>
