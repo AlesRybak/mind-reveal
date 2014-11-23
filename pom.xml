@@ -4,7 +4,7 @@
 
     <groupId>cz.alry.mind-reveal</groupId>
     <artifactId>mind-reveal</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>MindReveal</name>
